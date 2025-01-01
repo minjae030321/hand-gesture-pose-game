@@ -33,7 +33,7 @@ This project is a gesture and pose-based game where players control a cannon's a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo-name/hand-gesture-pose-game.git cd hand-gesture-pose-game
+git clone https://github.com/minjae030321/hand-gesture-pose-game.git
 ```
 2. Place the required images (`canon.png` and `apple.png`) in the same directory as the script.
 3. Run the script:
